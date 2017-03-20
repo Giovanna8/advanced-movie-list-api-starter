@@ -1,0 +1,24 @@
+{
+  "name": "advanced-movie-list-api-starter",
+  "version": "1.0.0",
+  "description": "Movie List API Starter Repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": "git+https://github.com/Giovanna8/advanced-movie-list-api-starter.git",
+  "author": "Giovanna Calderoni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Giovanna8/advanced-movie-list-api-starter/issues"
+  },
+  "homepage": "https://github.com/Giovanna8/advanced-movie-list-api-starter#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.24.0",
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongod": "^2.0.0",
+    "mongoose": "^4.9.1"
+  }
+}
